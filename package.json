@@ -1,0 +1,15 @@
+{
+  "name": "servo-testing",
+  "version": "1.0.0",
+  "description": "Servo motor with web app",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "author": "Aditya Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "johnny-five": "^2.0.0"
+  }
+}
